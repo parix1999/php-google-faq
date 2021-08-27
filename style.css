@@ -4,7 +4,10 @@
     box-sizing: border-box;
 }
 
-
+.container {
+    width:1000px;
+    margin: 0 auto;
+}
 
 p {
     margin-top:20px;
