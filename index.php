@@ -64,10 +64,10 @@
     <div class="container">
         <?php 
             foreach($faqs as $faq) { ?>
-
-                <div class="">
+                <div class="domanda">
                     <h2><?php echo $faq['question'] ?></h2>
                 </div>
+
             <?php echo $faq['awnser'] ?>
 
 

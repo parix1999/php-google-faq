@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    font-family:Helvetica; 
 }
 
 .container {
@@ -11,4 +12,9 @@
 
 p {
     margin-top:20px;
+}
+
+.domanda {
+    color:#3c4043;
+    margin-top:25px;
 }
